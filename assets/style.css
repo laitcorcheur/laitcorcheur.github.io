@@ -1,0 +1,6 @@
+.jumbotron{
+    background: url("Portfolio-header.png") center;
+    opacity: 0.9;
+    background-size: cover;
+    height: 300px;
+}
